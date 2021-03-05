@@ -50,7 +50,7 @@ do today we will always be fine at the end, and they will all be in the future. 
 <font face="Arial" color="#00FFFF"  size ="4"> This drawing reminds us
 the sign of HOPE </font> 
 </h1>
-<img src="hope.jpg">
+<img src="HOPE.jpg">
 <br>
 <br>
 <br>
